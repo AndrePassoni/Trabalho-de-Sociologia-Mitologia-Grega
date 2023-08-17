@@ -64,3 +64,8 @@ footer{
     background-color: black;
   }
 
+img{
+    width: 250px;
+    height: 250px;
+    padding-left: 100px;
+}
